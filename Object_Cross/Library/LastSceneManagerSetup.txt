@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Cross2.unity
+- path: Assets/Scenes/Cross1.unity
   isLoaded: 1
   isActive: 1

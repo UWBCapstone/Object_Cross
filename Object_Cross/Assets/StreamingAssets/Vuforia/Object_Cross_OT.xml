@@ -4,5 +4,6 @@
     <ObjectTarget name="Car_Orange" />
     <ObjectTarget name="Car_Blue" />
     <ObjectTarget name="Car_Beige" />
+    <ObjectTarget name="test" />
   </Tracking>
 </QCARConfig>

@@ -4,4 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cross2.unity
+    guid: eb3830a59920bf7439d6fb392977cce1
+  - enabled: 0
+    path: Assets/Scenes/Cross1.unity
+    guid: 7fae7e568bdd8cc4f84edd1a19eee18e
+  - enabled: 0
+    path: Assets/Scenes/Physical.unity
+    guid: ebcb1347260214b4da319215ec4c4355
+  - enabled: 0
+    path: Assets/Scenes/Physical2.unity
+    guid: e0b2b058d534f1b4b8cfe5a0ccbf6525
